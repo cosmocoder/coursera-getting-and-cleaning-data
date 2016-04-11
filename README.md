@@ -1,6 +1,6 @@
 # Getting and Cleaning Data project 
 
-This repo holds the project files for the Getting and Cleaning Data course in Coursera. The raw data used for this project is obtained from (Human Activity Recognition Using Smartphones Data Set)[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]
+This repo holds the project files for the Getting and Cleaning Data course in Coursera. The raw data used for this project is obtained from [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 The R script `run_analysis.R` does the following:
 
